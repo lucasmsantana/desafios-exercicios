@@ -1,0 +1,8 @@
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Users\Bobzera\Documents\Projetos - Desafios\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
