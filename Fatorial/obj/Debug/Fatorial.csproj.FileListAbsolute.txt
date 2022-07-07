@@ -1,0 +1,8 @@
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\obj\Debug\Fatorial.csproj.AssemblyReference.cache
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Bobzera\Documents\Projetos - Desafios\Fatorial\obj\Debug\Fatorial.pdb

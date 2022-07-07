@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaGeralPOO", "MediaGeralPOO\MediaGeralPOO.csproj", "{91EC6ACB-3A31-4A93-9B43-62FD00E3FB68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "..\Fatorial\Fatorial.csproj", "{258D72D8-4069-412A-9561-13C076B4E870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91EC6ACB-3A31-4A93-9B43-62FD00E3FB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91EC6ACB-3A31-4A93-9B43-62FD00E3FB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91EC6ACB-3A31-4A93-9B43-62FD00E3FB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258D72D8-4069-412A-9561-13C076B4E870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258D72D8-4069-412A-9561-13C076B4E870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258D72D8-4069-412A-9561-13C076B4E870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258D72D8-4069-412A-9561-13C076B4E870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

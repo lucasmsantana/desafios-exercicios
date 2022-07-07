@@ -42,7 +42,7 @@ namespace MediaGeralPOO
 
                 mediaGeral += aluno.Media;
             }
-
+            
             double resultadoFinal = mediaGeral / alunos.Length;
 
             Console.WriteLine("Média geral dos alunos: " + resultadoFinal);

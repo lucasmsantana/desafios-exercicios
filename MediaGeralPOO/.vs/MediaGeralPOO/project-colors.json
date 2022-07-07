@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91ec6acb-3a31-4a93-9b43-62fd00e3fb68": {
+      "ProjectGuid": "91ec6acb-3a31-4a93-9b43-62fd00e3fb68",
+      "DisplayName": "MediaGeralPOO",
+      "ColorIndex": 0
+    },
+    "258d72d8-4069-412a-9561-13c076b4e870": {
+      "ProjectGuid": "258d72d8-4069-412a-9561-13c076b4e870",
+      "DisplayName": "Fatorial",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
